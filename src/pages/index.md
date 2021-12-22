@@ -6,8 +6,8 @@ heading: サービス内容
 subheading: これから「クラウド」の話をしよう
 mainpitch:
   title: なぜクラウドなのか？
-  description: サービスをスケールしやすいスピード感がある管理しやすさ導入しやすさ安心安定
-description: 　
+  description: 変化の激しい時代、サーバーを抱えるサービスをスケールしやすいスピード感がある管理しやすさ導入しやすさ安心安定
+description: クラウドサービスを提供します
 intro:
   blurbs:
     - image: /img/coffee.png
