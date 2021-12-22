@@ -10,13 +10,9 @@ mainpitch:
 description: クラウドサービスを提供します
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/noun-cloud-hosting-2015878.png
+      text: |
+        クラウド受託開発
   heading: What we offer
   description: |-
     
