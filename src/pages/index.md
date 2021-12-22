@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Volatedge
-image: /img/home-jumbotron.jpg
+image: /img/noun-internet-2390876.png
 heading: サービス内容
 subheading: これから「クラウド」の話をしよう
 mainpitch:
