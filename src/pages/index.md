@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Volatedge
-image: /img/画像1.jpg
+image: /img/pic.webp
 heading: サービス内容
 subheading: これから「クラウド」の話をしよう
 mainpitch:
