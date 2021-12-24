@@ -13,10 +13,10 @@ mainpitch:
 description: 削除
 intro:
   blurbs:
-    - image: /img/noun-internet-2390876.png
-      text: クラウドの受託開発
     - image: /img/noun-cloud-hosting-2015878.png
       text: データ基盤の構築
+    - image: /img/noun-internet-2390876.png
+      text: クラウドの受託開発
   heading: What we offer
   description: |-
     
