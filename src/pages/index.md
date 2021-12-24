@@ -6,7 +6,7 @@ heading: サービス内容
 subheading: これから「クラウド」の話をしよう
 mainpitch:
   title: なぜクラウドなのか？
-  description: 変化の激しい時代、サービスをスケールしやすい管理しやすさ導入しやすさ安心安定
+  description: 変化の激しい時代、サーバーを抱えてサービスをスケールしやすい管理しやすさ導入しやすさ安心安定
 description: 削除
 intro:
   blurbs:
